@@ -7,3 +7,8 @@
 - Add the references that cited the initial work.
 - Convert all base codes to jupyter.
 - Explore all useful subtypes of KAN (references 7, 8, and 9) to figure out whether they can prove useful for our examples or not.
+
+### Important References:
+- SUseful subtypes of KAN: 7-9
+- KAN for ODE: 18
+- Related works with the exact same problems to solve: 1-3
