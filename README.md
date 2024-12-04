@@ -19,7 +19,7 @@
 
 ---
 
-### 1. **Chebyshev KAN (7 - Chebyshev Polynomial-Based KAN)
+### 1. **Chebyshev KAN (7 - Chebyshev Polynomial-Based KAN)**
 - **Strengths**: 
   - Chebyshev polynomials provide excellent approximation properties with rapid convergence and numerical stability. 
   - Particularly effective for high-dimensional problems or those requiring efficient parameter use.
@@ -30,7 +30,7 @@
 
 ---
 
-### 2. **rKAN (8 - Rational KAN)
+### 2. **rKAN (8 - Rational KAN)**
 - **Strengths**:
   - Uses rational functions, allowing it to handle functions with singularities, asymptotic behavior, or sharp transitions.
   - Suitable for problems requiring precision over wide value ranges.
@@ -40,7 +40,7 @@
 
 ---
 
-### 3. **SigKAN (9 - Signature-Weighted KAN)
+### 3. **SigKAN (9 - Signature-Weighted KAN)**
 - **Strengths**:
   - Enhances KAN with path signature features, capturing geometric and temporal dependencies.
   - Well-suited for sequential or time-dependent data and can model complex relationships dynamically.
