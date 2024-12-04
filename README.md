@@ -14,7 +14,8 @@
 - Related works with the exact same problems to solve: 1-3
 
 
-Update on subtypes of KAN: 3 architectures discussed in the provided documents[7-9] — **Chebyshev KAN**, **rKAN (Rational KAN)**, and **SigKAN** — each have distinct strengths and suitability depending on the problem type. Comparison below:
+## Important Update on subtypes of KAN: 
+3 architectures discussed in the provided documents[7-9] — **Chebyshev KAN**, **rKAN (Rational KAN)**, and **SigKAN** — each have distinct strengths and suitability depending on the problem type. Comparison below:
 
 ---
 
