@@ -87,4 +87,4 @@
 ---
 
 ### Other Notes:
-- Modifications of batch size had no impact on the loss. Loss values reamin inconsistent.
+- Modifications of batch size had no impact on the loss; loss values reamin inconsistent regardless of the function itself.
