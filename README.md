@@ -10,7 +10,7 @@
 
 ### Important References:
 - SUseful subtypes of KAN: 7-9
-- KAN for ODE: 18
+- KAN for ODE: 18 and 23
 - Related works with the exact same problems to solve: 1-3
 
 
