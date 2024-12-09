@@ -85,3 +85,6 @@
 - Extend training iterations with periodic re-initialization of the optimizer to avoid local minima.
 
 ---
+
+### Other Notes:
+- Modifications of batch size had no impact on the loss. Loss values reamin inconsistent.
