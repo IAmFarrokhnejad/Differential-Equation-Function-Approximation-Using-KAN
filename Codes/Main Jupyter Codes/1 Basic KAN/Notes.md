@@ -1,5 +1,18 @@
-### Optimization Strategies(TODO):
 
+## V 1.1: 
+#### Optimizations Applied:
+- Added a loss term (ode_residual) that enforces the ODE dynamics.
+- Used the LBFGS optimizer, which is effective for tasks requiring accurate gradient-based optimization.
+- Limited training to 150 epochs with early stopping to prevent overfitting.
+- Compared the predicted solution (y_pred) with the exact solution (y_exact_eval) for both examples.
+#### V 1.1 Results:
+Example one remians inaccurate, but it solves example two in a perfect manner.
+
+
+
+
+
+### Optimization Strategies(TODO):
 
 #### 1. **Refine the Model Architecture**
 - **Increase the Number of Neurons**: Use more neurons in the hidden layers to enhance the model’s capacity to capture complex relationships in the solution.
