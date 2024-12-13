@@ -2,12 +2,13 @@
  
 ## Todo:
 - Get this reference: https://asmedigitalcollection.asme.org/computingengineering/article-abstract/20/6/061004/1082608/Solution-of-Biharmonic-Equation-in-Complicated
--  ~~ Algorithm optimization for V 0.1  ~~
--  ~~ Fix the bugs in V 1.1.1 .  ~~
+- ~~Algorithm optimization for V 0.1~~
+- ~~Fix the bugs in V 1.1.1.~~
 - Fix the issue with the Jupyter Code V 1.1 (Only for the first example).
--  ~~ Add the references that cited the initial work.  ~~
--  ~~ Convert all base codes to jupyter.  ~~
--  ~~ Explore all useful subtypes of KAN (references 7, 8, and 9) to figure out whether they can prove useful for our examples or not.  ~~
+- ~~Add the references that cited the initial work.~~
+- ~~Convert all base codes to Jupyter.~~
+- ~~Explore all useful subtypes of KAN (references 7, 8, and 9) to figure out whether they can prove useful for our examples or not.~~
+
 
 ### Important References:
 - SUseful subtypes of KAN: 7-9
