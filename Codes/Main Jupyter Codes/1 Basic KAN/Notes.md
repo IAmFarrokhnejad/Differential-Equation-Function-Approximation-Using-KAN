@@ -10,6 +10,10 @@
 Both examples are solved perfectly. They can be optimized further.
 
 
+## V 1.3:
+- Added example 3 from the second reference
+#### V 1.3 Results:
+Each example works fine, however, there's always room for improvement.
 
 
 
