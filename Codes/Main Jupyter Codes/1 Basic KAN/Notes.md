@@ -6,7 +6,8 @@
 - Limited training to 150 epochs with early stopping to prevent overfitting.
 - Compared the predicted solution (y_pred) with the exact solution (y_exact_eval) for both examples.
 #### V 1.1 Results:
-Example one remians inaccurate, but it solves example two in a perfect manner.
+~~Example one remians inaccurate, but it solves example two in a perfect manner.~~
+Both examples are solved perfectly. They can be optimized further.
 
 
 
@@ -98,6 +99,3 @@ Example one remians inaccurate, but it solves example two in a perfect manner.
 - Extend training iterations with periodic re-initialization of the optimizer to avoid local minima.
 
 ---
-
-### Other Notes:
-- Modifications of batch size had no impact on the loss; loss values reamin inconsistent regardless of the function itself.
