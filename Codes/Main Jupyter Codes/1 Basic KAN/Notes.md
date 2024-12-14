@@ -15,6 +15,10 @@ Both examples are solved perfectly. They can be optimized further.
 #### V 1.3 Results:
 Each example works fine, however, there's always room for improvement.
 
+## V 1.3.1:
+- Added dynamic learning rate increase and increased epochs, standard modifications for possible improvement.
+#### V 1.3.1 Results:
+- No noticeable improvements...
 
 
 ### Optimization Strategies(TODO):
@@ -23,6 +27,7 @@ Each example works fine, however, there's always room for improvement.
 - **Increase the Number of Neurons**: Use more neurons in the hidden layers to enhance the model’s capacity to capture complex relationships in the solution.
 - **Adjust the Grid and Polynomial Order (`k`)**: For KANs, experiment with more grid points or higher-order polynomials to better approximate the underlying function.
 - **Add More Layers**: Adding layers may help the network learn deeper relationships. However, this must be balanced to avoid overfitting.
+
 
 ---
 
