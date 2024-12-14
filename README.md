@@ -8,7 +8,7 @@
 - ~~Add the references that cited the initial work.~~
 - ~~Convert all base codes to Jupyter.~~
 - ~~Explore all useful subtypes of KAN (references 7, 8, and 9) to figure out whether they can prove useful for our examples or not.~~
-- Get the following paper and add the 3rd example from it to the work. https://link.springer.com/article/10.1007/s00500-022-07529-3
+- Solve the 3rd example reference 2. Add it to all the codes.
 
 
 ### Important References:
