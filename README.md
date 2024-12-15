@@ -61,4 +61,4 @@
 **SigKAN** might be suitable for either of the examples to leverage its advanced geometric feature capture.
 
 ### Accomplishments/Discoveries:
-- V 1.1 of the Jupyter codes works perfectly for example 2.
+- V 1.3: All examples work for basic KAN, however, further optimization is required.
