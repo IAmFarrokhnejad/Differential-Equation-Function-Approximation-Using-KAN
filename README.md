@@ -54,4 +54,4 @@
 **SigKAN** might be suitable for either of the examples to leverage its advanced geometric feature capture.
 
 ### Accomplishments/Discoveries:
-- V 1.3: All examples work for basic KAN, however, further optimization is required.
+- V 1.3.1: All examples work for basic KAN, however, further optimization is required.
