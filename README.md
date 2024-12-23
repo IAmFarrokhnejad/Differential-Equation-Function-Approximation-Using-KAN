@@ -1,19 +1,12 @@
 # Differential-Equation-Function-Approximation-Using-KAN
  
 ## Todo:
-- Get this reference: https://asmedigitalcollection.asme.org/computingengineering/article-abstract/20/6/061004/1082608/Solution-of-Biharmonic-Equation-in-Complicated
-- ~~Algorithm optimization for V 0.1~~
-- ~~Fix the bugs in V 1.1.1.~~
-- ~~Fix the issue with the Jupyter Code V 1.1 (Only for the first example).~~
-- ~~Add the references that cited the initial work.~~
-- ~~Convert all base codes to Jupyter.~~
-- ~~Explore all useful subtypes of KAN (references 7, 8, and 9) to figure out whether they can prove useful for our examples or not.~~
-- ~~Solve the 3rd example reference 2. Add it to all the codes.~~
+
 - Optimize the basic KAN codes as much as you can.
 
 
 ### Important References:
-- SUseful subtypes of KAN: 7-9
+- Useful subtypes of KAN: 7-9 (We might remove these and implement them for future works)
 - KAN for ODE: 18 and 23
 - Related works with the exact same problems to solve: 1-3
 
@@ -61,4 +54,4 @@
 **SigKAN** might be suitable for either of the examples to leverage its advanced geometric feature capture.
 
 ### Accomplishments/Discoveries:
-- V 1.1 of the Jupyter codes works perfectly for example 2.
+- V 1.3.1: All examples work for basic KAN, however, further optimization is required.

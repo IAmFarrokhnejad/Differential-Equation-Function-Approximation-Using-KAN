@@ -18,8 +18,12 @@ Each example works fine, however, there's always room for improvement.
 ## V 1.3.1:
 - Added dynamic learning rate increase and increased epochs, standard modifications for possible improvement.
 #### V 1.3.1 Results:
-- No noticeable improvements...
+- No noticeable improvements
 
+## **Next step:**
+The network eventually halts and almost none of the optimization strategies have any impact on the accuracy. References below might prove useful for its optimization:
+- https://github.com/lif314/X-KANeRF\
+- https://file.notion.so/f/f/76051f0b-02ea-4789-9f79-63eaf64f43bb/ac6432e8-8269-4281-b2e5-f23f588fae0a/2410.03801v2.pdf?table=block&id=1622e363-46a2-8051-9800-d559954b0cb9&spaceId=76051f0b-02ea-4789-9f79-63eaf64f43bb&expirationTimestamp=1734890400000&signature=65SRNRMgzT3T7Yz62t3H4lCBf-H8f8cdNRo10Ib7wZE&downloadName=2410.03801v2.pdf
 
 ### Optimization Strategies(TODO):
 
