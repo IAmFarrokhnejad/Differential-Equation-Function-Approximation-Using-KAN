@@ -20,6 +20,14 @@ Each example works fine, however, there's always room for improvement.
 #### V 1.3.1 Results:
 - No noticeable improvements
 
+## V 2.0:
+- Fixed loss function, now loss is calculated as it should be.
+## V 2.1:
+- Fixed an issue with example 3's exact solution.
+#### V 2.0-2.1 Results:
+- Model possesses comparable loss to that of the references.
+
+
 ## **Next step:**
 The network eventually halts and almost none of the optimization strategies have any impact on the accuracy. References below might prove useful for its optimization:
 - https://github.com/lif314/X-KANeRF\
