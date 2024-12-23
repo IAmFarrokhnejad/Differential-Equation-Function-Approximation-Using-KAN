@@ -55,3 +55,4 @@
 
 ### Accomplishments/Discoveries:
 - V 1.3.1: All examples work for basic KAN, however, further optimization is required.
+- V 2.0: Updated loss function, performance is comparable to that of reference [3].
