@@ -26,7 +26,8 @@ Each example works fine, however, there's always room for improvement.
 - Fixed an issue with example 3's exact solution.
 #### V 2.0-2.1 Results:
 - Model possesses comparable loss to that of the references.
-
+## V 2.2:
+- Added comparison table for comparing network output and exact solutions
 
 ## **Next step:**
 The network eventually halts and almost none of the optimization strategies have any impact on the accuracy. References below might prove useful for its optimization:
