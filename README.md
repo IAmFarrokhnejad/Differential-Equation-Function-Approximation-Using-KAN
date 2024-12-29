@@ -2,7 +2,7 @@
  
 ## Todo:
 
-- Optimize the basic KAN codes as much as you can.
+~~- Optimize the basic KAN codes as much as you can.~~ With basic KAN, it is as good as it can get. **We must look into the subtypes mentioned below for more accuracy.**
 
 
 ### Important References:
@@ -56,3 +56,4 @@
 ### Accomplishments/Discoveries:
 - V 1.3.1: All examples work for basic KAN, however, further optimization is required.
 - V 2.0: Updated loss function, performance is comparable to that of reference [3].
+- V 2.2: At this point there are only 2 methods left to further optimize the network: We must either define the architecture on our own(which may require a copious amount of time) to have more contrtol over the architecture, or start using other variations of KAN [7-9] subtype of KAN.(which is likely to involve the first method).
