@@ -2,17 +2,7 @@
  
 ## Todo:
 
-~~- Optimize the basic KAN codes as much as you can.~~ With basic KAN, it is as good as it can get. **We must look into the subtypes mentioned below for more accuracy.**
-
-
-### Important References:
-- Useful subtypes of KAN: 7-9 (We might remove these and implement them for future works)
-- KAN for ODE: 18 and 23
-- Related works with the exact same problems to solve: 1-3
-
-
-## Important Update on subtypes of KAN: 
-3 architectures discussed in the provided documents[7-9] — **Chebyshev KAN**, **rKAN (Rational KAN)**, and **SigKAN** — each have distinct strengths and suitability depending on the problem type. Comparison below:
+~~- Optimize the basic KAN codes as much as you can. With basic KAN, it is as good as it can get.~~ We must look into the subtypes mentioned below for more accuracy.**All included in the "KAN Variations Directory."**
 
 ---
 
@@ -56,4 +46,4 @@
 ### Accomplishments/Discoveries:
 - V 1.3.1: All examples work for basic KAN, however, further optimization is required.
 - V 2.0: Updated loss function, performance is comparable to that of reference [3].
-- V 2.2: At this point there are only 2 methods left to further optimize the network: We must either define the architecture on our own(which may require a copious amount of time) to have more contrtol over the architecture, or start using other variations of KAN [7-9] subtype of KAN.(which is likely to involve the first method).
+- V 2.2: At this point there are only 2 methods left to further optimize the network: We must either define the architecture on our own(which may require a copious amount of time) to have more contrtol over the architecture, or start using other variations of KAN (KAN variations directory) subtype of KAN.(which is likely to involve the first method).
