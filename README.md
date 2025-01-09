@@ -1,5 +1,11 @@
 # Differential-Equation-Function-Approximation-Using-KAN
  
+
+## Useful material: 
+1. This library looks promising: https://pypi.org/project/Deep-KAN/
+2. Sample implementation of Chebyshev KAN (The first variation): https://github.com/SynodicMonth/ChebyKAN
+
+
 ## Todo:
 
 ~~- Optimize the basic KAN codes as much as you can. With basic KAN, it is as good as it can get.~~ We must look into the subtypes mentioned below for more accuracy.**All included in the "KAN Variations Directory."**
