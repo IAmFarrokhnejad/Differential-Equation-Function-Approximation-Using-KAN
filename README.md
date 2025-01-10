@@ -2,7 +2,7 @@
  
 
 ## Useful material: 
-1. This library looks promising: https://pypi.org/project/Deep-KAN/
+1. This library looks promising: https://pypi.org/project/Deep-KAN/ (It would be a great idea to implement RBF-KAN from this documentation)
 2. Sample implementation of Chebyshev KAN (The first variation): https://github.com/SynodicMonth/ChebyKAN
 
 
