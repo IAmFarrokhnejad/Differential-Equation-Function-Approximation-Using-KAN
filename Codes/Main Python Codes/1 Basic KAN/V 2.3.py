@@ -150,9 +150,6 @@ def plot_results(t1, y1, y1_exact, t2, y2, y2_exact, t3, y3, y3_exact, architect
 def main():
     architectures = [
         [50, 20],
-        [64, 32],
-        [50, 20, 10],
-        [50, 20, 20, 8]
     ]
 
     for architecture in architectures:
