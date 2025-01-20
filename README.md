@@ -8,12 +8,14 @@
 
 ## Todo:
 
-- Add the final results with tables and comparisons to the word file. (Abstract, conclusion, and all evaluations)
--  Test the paper with AI detector and reword every part that needs rewording.
+- ~Add~ Modify the final results with tables and comparisons to the word file. (Abstract, conclusion, and all evaluations)
+~-  Test the paper with AI detector and reword every part that needs rewording.~
 
 -  Once you're done with the items above, check for any new references that might have been published by the end of this work and add and cite mors references (only KAN related, not function approximation.)
 ~~- Optimize the basic KAN codes as much as you can. With basic KAN, it is as good as it can get.~~ We must look into the subtypes mentioned below for more accuracy.**All included in the "KAN Variations Directory."**
 
+### Target Journal: https://link.springer.com/journal/500/submission-guidelines 
+- Check for writing style of the papers from the journal above.
 ---
 
 ### 1. **Chebyshev KAN (7 - Chebyshev Polynomial-Based KAN)**
