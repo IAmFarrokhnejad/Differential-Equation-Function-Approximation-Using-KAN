@@ -2,16 +2,15 @@
  
 
 ## Useful material: 
-~1. This library looks promising: https://pypi.org/project/Deep-KAN/ (It would be a great idea to implement RBF-KAN from this documentation)~
-2. Sample implementation of Chebyshev KAN (The first variation): https://github.com/SynodicMonth/ChebyKAN
+1. Sample implementation of Chebyshev KAN (The first variation): https://github.com/SynodicMonth/ChebyKAN
 
 
 ## Todo:
 
-- ~Add~ Modify the final results with tables and comparisons to the word file. (Abstract, conclusion, and all evaluations)
+- ~Add Modify the final results with tables and comparisons to the word file. (Abstract, conclusion, and all evaluations)~
 ~-  Test the paper with AI detector and reword every part that needs rewording.~
 
--  Once you're done with the items above, check for any new references that might have been published by the end of this work and add and cite mors references (only KAN related, not function approximation.)
+-  Check for any new references that might have been published by the end of this work and add and cite mors references (only KAN related, not function approximation.)
 ~~- Optimize the basic KAN codes as much as you can. With basic KAN, it is as good as it can get.~~ We must look into the subtypes mentioned below for more accuracy.**All included in the "KAN Variations Directory."**
 
 ### Target Journal: https://link.springer.com/journal/500/submission-guidelines 
@@ -59,3 +58,4 @@
 - V 1.3.1: All examples work for basic KAN, however, further optimization is required.
 - V 2.0: Updated loss function, performance is comparable to that of reference [3].
 - V 2.2: At this point there are only 2 methods left to further optimize the network: We must either define the architecture on our own(which may require a copious amount of time) to have more contrtol over the architecture, or start using other variations of KAN (KAN variations directory) subtype of KAN.(which is likely to involve the first method).
+- V 2.3: Definitive basic KAN implementation.
