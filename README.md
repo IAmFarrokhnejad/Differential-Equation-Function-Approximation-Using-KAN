@@ -7,14 +7,9 @@
 
 ## Todo:
 
-- ~Add Modify the final results with tables and comparisons to the word file. (Abstract, conclusion, and all evaluations)~
-~-  Test the paper with AI detector and reword every part that needs rewording.~
-
--  Check for any new references that might have been published by the end of this work and add and cite mors references (only KAN related, not function approximation.)
-~~- Optimize the basic KAN codes as much as you can. With basic KAN, it is as good as it can get.~~ We must look into the subtypes mentioned below for more accuracy.**All included in the "KAN Variations Directory."**
-
-- Get this reference(but this one is for KAN variations): https://www.sciencedirect.com/science/article/abs/pii/S0925231225000864
-- Get this reference: https://link.springer.com/article/10.3103/S1060992X24700747
+- Draw the architecture and add it to the paper. 
+- Do all citations from reference 21 and onward.
+- Add a cover page.
 
 ### Target Journal: https://link.springer.com/journal/500/submission-guidelines 
 - Check for writing style of the papers from the journal above.
