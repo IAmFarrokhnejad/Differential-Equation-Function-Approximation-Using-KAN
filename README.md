@@ -7,7 +7,7 @@
 
 ## Todo:
 
-- ~Draw~ Check the architecture and ~add it to the paper~ modify it if needed. 
+- ~Draw the architecture and add it to the paper; modify it if needed.~ 
 - Do all citations from reference 21 and onward.
 - Add a cover page.
 
