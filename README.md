@@ -8,7 +8,8 @@
 ## Todo:
 
 - ~Draw the architecture and add it to the paper; modify it if needed.~ 
-- Do all citations from reference 21 and onward.
+- ~Do all citations from reference 21 and onward.~
+- Address all the issues that professor mentioned.
 - Add a cover page.
 
 ### Target Journal: https://link.springer.com/journal/500/submission-guidelines 
