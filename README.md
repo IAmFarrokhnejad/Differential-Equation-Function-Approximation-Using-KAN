@@ -77,9 +77,7 @@ TBA
 
 ## License
 
-Add 
-
-
+[MIT License][https://github.com/IAmFarrokhnejad/Differential-Equation-Function-Approximation-Using-KAN/blob/main/LICENSE]
 
 ## Contact
 
