@@ -14,8 +14,8 @@ approximators (RBFN, WNN).
 ## Repository structure
 
 ```
-/README.md                 # This file
-/Codes/ Source Code/ Pipeline.ipynb           # Reproducible pipeline and experiments (provided)
+/README.md                                           # This file
+/Codes/ Source Code/ Pipeline.ipynb                  # Reproducible pipeline and experiments (provided)
 / Codes / example_1_solution.png                     # Example 1 Solution
 / Codes / example_2_solution.png                     # Example 2 Solution
 / Codes / example_3_solution.png                     # Example 3 Solution
